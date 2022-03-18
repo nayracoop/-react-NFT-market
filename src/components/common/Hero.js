@@ -1,8 +1,7 @@
 import React from 'react';
 import styled from 'styled-components'
-import heroAnimation from '../../img/hero-animation.gif';
-import heroBackground from '../../img/hero-bg.gif';
-import heroBackgroundOverlay from '../../img/hero-bg-overlay.png';
+import heroBackground from '../../images/hero-bg.gif';
+import heroBackgroundOverlay from '../../images/hero-bg-overlay.png';
 
 const HeroContainer = styled.div `
     min-height: calc(90vh - 80px);
@@ -22,7 +21,7 @@ const HeroContainer = styled.div `
         top: 0;
         left: 0;
         z-index: 0;
-        opacity: .25;
+        opacity: .4;
     }
 `
 const HeroWrapper = styled.div `

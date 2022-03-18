@@ -106,7 +106,7 @@ const Nft = () => {
             <NftWrapper>
                 <LeftBlock>
                     <NftImageWrapper>
-                        <NftImage src={require("../../img/collectionImages/blue (2).gif")} alt="" />
+                        <NftImage src={require("../../images/collectionImages/blue (2).gif")} alt="" />
                     </NftImageWrapper>
                 </LeftBlock>
                 <RightBlock>

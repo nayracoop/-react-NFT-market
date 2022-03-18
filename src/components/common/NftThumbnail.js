@@ -68,7 +68,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/blue (1).gif"),
+        itemImageSrc: require("../../images/collectionImages/blue (1).gif"),
         itemImageAlt: 'blue art 1'
     },
     {
@@ -78,7 +78,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/blue (2).gif"),
+        itemImageSrc: require("../../images/collectionImages/blue (2).gif"),
         itemImageAlt: 'blue art 2'
     },
     {
@@ -88,7 +88,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/blue (3).gif"),
+        itemImageSrc: require("../../images/collectionImages/blue (3).gif"),
         itemImageAlt: 'blue art 3'
     },
     {
@@ -98,7 +98,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/blue(4).gif"),
+        itemImageSrc: require("../../images/collectionImages/blue(4).gif"),
         itemImageAlt: 'purple art 1'
     },
     {
@@ -108,7 +108,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/purple (1).gif"),
+        itemImageSrc: require("../../images/collectionImages/purple (1).gif"),
         itemImageAlt: 'purple art 1'
     },
     {
@@ -118,7 +118,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/purple (2).gif"),
+        itemImageSrc: require("../../images/collectionImages/purple (2).gif"),
         itemImageAlt: 'purple art 2'
     },
     {
@@ -128,7 +128,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/purple(4).gif"),
+        itemImageSrc: require("../../images/collectionImages/purple(4).gif"),
         itemImageAlt: 'purple art 3'
     },
     {
@@ -138,7 +138,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/purple(5).gif"),
+        itemImageSrc: require("../../images/collectionImages/purple(5).gif"),
         itemImageAlt: 'red art 3'
     },
     {
@@ -148,7 +148,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/red (1).gif"),
+        itemImageSrc: require("../../images/collectionImages/red (1).gif"),
         itemImageAlt: 'red art 1'
     },
     {
@@ -158,7 +158,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/red (2).gif"),
+        itemImageSrc: require("../../images/collectionImages/red (2).gif"),
         itemImageAlt: 'red art 2'
     },
     {
@@ -168,7 +168,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/red (3).gif"),
+        itemImageSrc: require("../../images/collectionImages/red (3).gif"),
         itemImageAlt: 'red art 3'
     },
     {
@@ -178,7 +178,7 @@ const itemNfts = [
         nftPrice: '1.5',
         nftLeftTime: '20',
         nftFavsCounter: '17',
-        itemImageSrc: require("../../img/collectionImages/pink(2).gif"),
+        itemImageSrc: require("../../images/collectionImages/pink(2).gif"),
         itemImageAlt: 'red art 3'
     }
   ]

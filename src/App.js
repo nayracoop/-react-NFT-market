@@ -14,7 +14,7 @@ function App() {
       <NFT />
       <Features />
     </div>
-  );
+  );  
 }
 
 
